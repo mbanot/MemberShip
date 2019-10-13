@@ -1,14 +1,16 @@
 [
   { "code": "ISE", "title": "Software Engineering" },
   { "code": "ICS", "title": "Computer Science" },
-  { "code": "ISA", "title": "Information Security And Assuarance" },
+  { "code": "ISA", "title": "Information Security And Assurance" },
   { "code": "IIT", "title": "Information Technology" },
-  { "code": "ICE", "title": "Electronic Commerce" },
-  { "code": "EEE", "title": "Electronics" },
-  { "code": "IIT", "title": "Biotechnology" },
-  { "code": "FPT", "title": "Food Processing Technology" },
-  { "code": "IFE", "title": "Financial Engineering" },
-  { "code": "FAA", "title": "Forensic Accounting and Auditing" },
-  { "code": "IME", "title": "Industial Manufacturing Engineering" },
-  { "code": "POL", "title": "Polymer" }
+  { "code": "BEC", "title": "Electronic Commerce" },
+  { "code": "EEE", "title": "Electronic Engineering" },
+  { "code": "SBT", "title": "Biotechnology" },
+  { "code": "SFP", "title": "Food Processing Technology" },
+  { "code": "BFE", "title": "Financial Engineering" },
+  { "code": "BFA", "title": "Forensic Accounting and Auditing" },
+  { "code": "EIM", "title": "Industrial and Manufacturing Engineering" },
+  { "code": "EPT", "title": "Polymer Technology and Engineering" },
+  { "code": "SPT", "title": "Pharmaceutical Technology"},
+  { "code": "ECP", "title": "Chemical & Process Systems Engineering"}
 ]
